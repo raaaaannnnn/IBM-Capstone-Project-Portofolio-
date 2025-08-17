@@ -1,1 +1,1 @@
-# IBM-Capstone-Project-Portofolio-
+Hi! My name is Randy and my nickname is rann. The title in this project is Rann's Portofolio. This project will show you about what project i've done, and i'll show you my certificate. I used 3 technologies to build up this website which is HTML, CSS, and JavaScript. I've many AI tools which is IBM Watsonx, BlackBox AI, ChatGPT, and gemini.# IBM-Capstone-Project-Portofolio-
