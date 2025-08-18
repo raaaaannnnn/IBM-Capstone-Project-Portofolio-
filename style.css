@@ -699,7 +699,7 @@ a {
   font-size: 1rem;
 }
 
-@media (max-width: 391px) {
+@media (max-width: 500px) {
   .navbar{
     left: 0rem; 
     justify-content: flex-start;
@@ -895,7 +895,7 @@ a {
   }
 }
 
-@media (min-width: 392px) and (max-width:768px){
+@media (min-width: 501px) and (max-width:768px){
   .navbar{
     left: 0rem; 
     justify-content: center;
